@@ -1,0 +1,20 @@
+.header{
+    background:var(--gray-800);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.feed{
+    display: flex;
+    align-items: center;
+    
+}
+.feed img{
+    height: 2rem;
+    margin-right: 0.75rem;
+
+}
+
